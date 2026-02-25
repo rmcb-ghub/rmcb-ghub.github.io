@@ -9,7 +9,7 @@ skills:
 - California Electrical Code
 - National Electrical Code
 - California Energy Code
-main-image: /sitepcalc.jpg
+main-image: /site pcalc.jpg
 ---
 
 ---
