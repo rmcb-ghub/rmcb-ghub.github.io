@@ -9,7 +9,7 @@ skills:
 - California Electrical Code
 - National Electrical Code
 - California Energy Code
-main-image: /dental.jpg
+main-image: /dental .jpg
 ---
 
 ---
