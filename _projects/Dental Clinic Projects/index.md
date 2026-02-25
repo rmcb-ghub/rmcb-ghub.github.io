@@ -2,7 +2,7 @@
 layout: post
 title: Dental Clinic Projects
 description:  These are some of the dental clinic projects I have worked on using AutoCAD and Excel to provide design and calculations that is in compliance with applicable codes and healthcare facility standards.
-skills: 
+skills:
 - AutoCAD
 - Excel
 - Dialux
