@@ -1,15 +1,15 @@
-----
+---
 layout: post
 title: Dental Clinic Projects
-description:  These are some of the dental clinic projects I have worked on using AutoCAD and Excel to provide design and calculations that is in compliance with applicable codes and healthcare facility standards.
-skills:
+description:  These are some of the dental clinic projects I have worked on using AutoCAD, Dialux and Excel to provide electrical design and calculations ensuring compliance with applicable codes and health standards.
+skills: 
 - AutoCAD
 - Excel
 - Dialux
 - California Electrical Code
 - National Electrical Code
 - California Energy Code
-main-image: /dental .jpg
+main-image: /dental.jpg
 ---
 
 ---
