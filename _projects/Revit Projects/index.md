@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Revit Projects
-description:  These are some of the projects I have worked on using Revit.
+title: Commercial Kitchen Projects
+description:  These are some of the dental and healthcare facility projects I have worked on using Revit and also AutoCAD and Excel to provide electrical design and calculations in compliance with electrical codes and health standards.
+skills: 
 - AutoCAD
 - Excel
 - Dialux
-- Revit
 - California Electrical Code
 - National Electrical Code
 - California Energy Code
+- Revit
 main-image: /revit.jpg
 ---
 
