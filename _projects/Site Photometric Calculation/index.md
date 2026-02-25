@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Site Photometric Calculation
+description:  Here is a sample project where the scope of work is to provide site photometric calculation for a parking lot and driveway of an industrial facility.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
-
-main-image: /project2.jpg
+- AutoCAD
+- Excel
+- Dialux
+- California Electrical Code
+- National Electrical Code
+- California Energy Code
+main-image: /sitepcalc.jpg
 ---
+
+---
+## Project Links
+[Coldstone Creamery](https://drive.google.com/file/d/1fdUjbuG2iguGlwywas50zo4ijQJV73z5/view?usp=sharing)
+[Hawaiian Shaved Ice](https://drive.google.com/file/d/1eWSa9Uhf-2bb7qdJzW0PQt04viR1rD3z/view?usp=drive_link)
