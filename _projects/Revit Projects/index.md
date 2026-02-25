@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Commercial Kitchen Projects
+title: Revit Projects
 description:  These are some of the dental and healthcare facility projects I have worked on using Revit and also AutoCAD and Excel to provide electrical design and calculations in compliance with electrical codes and health standards.
 skills: 
 - AutoCAD
