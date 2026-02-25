@@ -14,5 +14,5 @@ main-image: /restaurant.jpg
 
 ---
 ## Project Links
-[Coldstone Creamery](https://drive.google.com/file/d/1fdUjbuG2iguGlwywas50zo4ijQJV73z5/view?usp=sharing)
+[Coldstone Creamery](https://drive.google.com/file/d/1fdUjbuG2iguGlwywas50zo4ijQJV73z5/view?usp=sharing)  
 [Hawaiian Shaved Ice](https://drive.google.com/file/d/1eWSa9Uhf-2bb7qdJzW0PQt04viR1rD3z/view?usp=drive_link)
