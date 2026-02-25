@@ -9,5 +9,5 @@ skills:
 - California Electrical Code
 - National Electrical Code
 - California Energy Code
-main-image: /project.webp 
+main-image: /restaurant.jpg
 ---
